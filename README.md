@@ -12,9 +12,6 @@
   <a href="https://github.com/abdwasidev" target="_blank">
     <img src="https://img.shields.io/badge/Github-9772FB?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://abdwasidev.my.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Portofolio Website-ff69b4?style=for-the-badge&logoColor=white" alt="Portofolio Website">
-  </a>
   <a href="https://github.com/WasiVii" target="_blank">
     <img src="https://img.shields.io/badge/Github-9772FB?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge">
   </a>
