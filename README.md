@@ -9,7 +9,7 @@ What are you looking for in this portfolio account?
 ---
 
 <div align="center">
-<a href="https://x.com/shiki1230/status/1580078555412979713/">
+<a href="https://www.pixiv.net/en/artworks/108233069">
     <img src="assets/TendouAlice.png" width="25%" align="right" />
 </a>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi,+greetings+to+all+from+me.+;I'm+WasiVii+a+tech+and+crypto+entusiast" width="70%" />
